@@ -2,8 +2,7 @@
 
 # Site Settings
 title: Takuma Yoshioka 吉岡 拓真
-url: "https://daikichidaze.github.io/resume"
-theme: ""
+url: "daikichidaze.github.io/resume"
 
 #change it according to your repository name
 # disabling since we are using a custom domain
