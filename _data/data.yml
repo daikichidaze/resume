@@ -19,7 +19,7 @@ sidebar:
   github: daikichidaze
   twitter: "@daikichidaz"
 
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  pdf: assets/pdf/takuma-yoshioka.pdf
   #  phone: 012 345 6789
   citizenship: Japanese
   timezone: Bangkok, Thailand
@@ -56,6 +56,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
+    #### Data scientist & New business development manager
     - <strong>6 years of data science and software development</strong>, including planning of new digital service.
     - Headed the establishment of the application development business in the company as a manager of the new team.
     - Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management.
