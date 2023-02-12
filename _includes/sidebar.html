@@ -20,6 +20,8 @@
   {% include contact.html %}
 
   {% if sidebar.education %}
+    {% capture in_sidebar %}{{ sidebar.education }}{% endcapture %}
+
     {% include education.html %}
   {% endif %}
 

@@ -1,6 +1,7 @@
 {% assign education = site.data.data.education %}
+
 {% if education %}
-  {% if site.data.data.sidebar.education %}
+  {% if in_sidebar %}
   <div class="education-container container-block">
 
     <h2 class="container-block-title">
@@ -17,6 +18,8 @@
 
   </div><!--//education-container-->
   {% else %}
+ 
+
   <section class="section educations-section">
 
     <h2 class="section-title">

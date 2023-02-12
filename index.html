@@ -2,18 +2,18 @@
 layout: default
 ---
 
-
 {% include career-profile.html %}
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
 
 {% include experiences.html %}
 
 {% include projects.html %}
 
 {% include oss-contributions.html %}
+
+{% unless local-sidebar-education%}
+  {% include education.html %}
+{% endunless %}
 
 {% include publications.html %}
 
