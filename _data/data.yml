@@ -120,10 +120,10 @@ projects:
         - Network analysis of slack conversation data
         - Knowledge graph development using SemanticMediaWiki
         - Crowdfunding project planned to launch a service to solve their challenges in learning data science
-    - title: Wagumi DAO
-      time: 2022
-      link:
-      tagline: "Contributed to a Decentralized autonomous organization promoting web 3.0 projects from Japan. Revitalized and engaged in the management of the Discord community."
+    # - title: Wagumi DAO
+    #   time: 2022
+    #   link:
+    #   tagline: "Contributed to a Decentralized autonomous organization promoting web 3.0 projects from Japan. Revitalized and engaged in the management of the Discord community."
     - title: TMU-SFC
       time: 2010 - 2016
       link:
