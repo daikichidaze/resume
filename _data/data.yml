@@ -150,7 +150,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Data Analysis; Python, SQL, Excel, Google Analytics
+    - name: Data Analysis; Python (Pulp, sklearn), SQL, Excel, Google Analytics
       level: 90%
 
     - name: Data engineering / visualization; AWS, GCP, pandas, matplotlib
