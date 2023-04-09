@@ -102,7 +102,8 @@ additional-experiences:
       time: 2021 - Present
       company: Flare (Thailand) Co., Ltd., Bangkok Thailand
       details: |
-        <strong>Algorithm development for detecting driving behavior events using smartphone sensor data.</strong> Lead technical direction in algorithm development. Collaborated with Vietnamese engineers on a fully remote and part-time basis.
+        <strong>Algorithm development for driving behavior event detection using smartphone GPS/sensor data.</strong>
+        Led the technical direction and project management. Working on new algorithm development, data analysis, and technical proposal to CTO. Collaborated with Vietnamese engineers on a fully remote and part-time basis.
     - role: Mentoring in Data Science Schools
       time: 2021 - Present
       company: Data Learning Inc., Tokyo Japan
