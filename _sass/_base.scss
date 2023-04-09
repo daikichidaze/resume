@@ -3,7 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
-  font-size: 14px;
+  font-size: 16px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -59,7 +59,7 @@ p {
     color: #fff;
   }
   .name {
-    font-size: 32px;
+    font-size: 36px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
@@ -103,13 +103,13 @@ p {
   }
   .container-block-title {
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 15px;
   }
   .degree {
-    font-size: 14px;
+    font-size: 18px;
     margin-top: 0;
     margin-bottom: 5px;
   }
@@ -165,7 +165,7 @@ p {
   padding: 60px;
   .section-title {
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 500;
     color: darken($theme-color, 15%);
     position: relative;
@@ -191,7 +191,7 @@ p {
   .job-title,
   .degree {
     color: $text-color;
-    font-size: 16px;
+    font-size: 18px;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
@@ -211,7 +211,7 @@ p {
   }
 
   .project-title {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
@@ -227,7 +227,7 @@ p {
   }
 
   .publication-title {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     color: $text-color;
     margin-bottom: 1px;
@@ -254,7 +254,7 @@ p {
     overflow: hidden;
   }
   .level-title {
-    font-size: 14px;
+    font-size: 18px;
     margin-top: 0;
     margin-bottom: 12px;
   }
