@@ -56,9 +56,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
+<<<<<<< HEAD
     #### Group leader of Business Development with Digital technologies
     - <strong>7 years of data science and software development</strong>, including planning of new digital service.
     - Headed the establishment of the company's application development business as a new team manager.
+=======
+    #### Data scientist & New business development manager
+    - <strong>6 years of data science and software development</strong>, including planning of new digital service.
+    - Headed the establishment of the company's application development business as a new team manager. Experience in team building and fostering a flexible mindset within teams.
+>>>>>>> 1769ec0 (custumized)
     - Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management.
     - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Southeast Asia.
     - Strong analytical and execution skills with leadership; **excellent balance between business and technology** with high flexibility.
@@ -111,7 +117,7 @@ additional-experiences:
       details: |
         <strong>Algorithm development for driving behavior event detection using smartphone GPS/sensor data.</strong>
         Led the technical direction and project management.
-        Working on new algorithm development, data analysis, and technical proposal to CTO.
+        Working on new algorithm development, data analysis, and technical proposal to CTO with data-driven decision making.
         Collaborated with Vietnamese engineers on a fully remote and part-time basis.
     - role: Mentoring in Data Science Schools
       time: 2021 - Present
@@ -177,28 +183,22 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Pandas/ Pulp/ Sklearn
+    - name: Data Analysis; Python, SQL, Excel, Google Analytics
       level: 90%
 
-    - name: C#
-      level: 60%
+    - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
+      level: 90%
 
-    - name: Go
-      level: 30%
-
-    - name: Data science & SQL
-      level: 75%
-
-    - name: Operations research &  Mathematical optimization
-      level: 75%
-
-    - name: NoCode & Prototype development
+    - name: Adaptability; Quick learner, flexible mindset, open to new challenges
       level: 80%
 
-    - name: Business planning & development
+    - name: Collaboration; Cross-functional team leading, multicultural communication, team building
+      level: 75%
+
+    - name: Software development (Python, C#, Go, NoCode)
       level: 70%
 
-    - name: Leadership and team establishment
+    - name: Agile project management
       level: 60%
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
