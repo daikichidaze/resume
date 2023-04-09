@@ -103,12 +103,16 @@ additional-experiences:
       company: Flare (Thailand) Co., Ltd., Bangkok Thailand
       details: |
         <strong>Algorithm development for driving behavior event detection using smartphone GPS/sensor data.</strong>
-        Led the technical direction and project management. Working on new algorithm development, data analysis, and technical proposal to CTO. Collaborated with Vietnamese engineers on a fully remote and part-time basis.
+        Led the technical direction and project management.
+        Working on new algorithm development, data analysis, and technical proposal to CTO.
+        Collaborated with Vietnamese engineers on a fully remote and part-time basis.
     - role: Mentoring in Data Science Schools
       time: 2021 - Present
       company: Data Learning Inc., Tokyo Japan
       details: |
-        Provided learning support and career assistance to 15+ students through online sessions. Participated as the first mentor and planned the standards of the service. Supporting scientific training, SQL, reporting, and Python/Machine learning basics.
+        Provided learning support and career assistance to 15+ students through online sessions.
+        Participated as the first mentor and planned the standards of the service.
+        Supporting scientific training, SQL, reporting, and Python/Machine learning basics.
 projects:
   title: Community Involvement
   intro:
