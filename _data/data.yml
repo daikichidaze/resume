@@ -51,7 +51,7 @@ career-profile:
     - <strong>6 years of data science and software development</strong>, including planning of new digital service.
     - Headed the establishment of the company's application development business as a new team manager. Experience in team building and fostering a flexible mindset within teams.
     - Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management.
-    - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Southeast Asia.
+    - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Southeast Asia. Communication between the business side and the technical side.
     - Strong analytical and execution skills with leadership; **excellent balance between business and technology** with high flexibility.
 education:
   title: Education
@@ -153,7 +153,7 @@ skills:
     - name: Data Analysis; Python, SQL, Excel, Google Analytics
       level: 90%
 
-    - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
+    - name: Data engineering / visualization; AWS, GCP, pandas, matplotlib
       level: 90%
 
     - name: Adaptability; Quick learner, flexible mindset, open to new challenges
