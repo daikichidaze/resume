@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Takuma Yoshioka
-  tagline: Data scientist and <br>with Business Planning Experience
+  tagline: Data scientist <br>with Business Planning Experience
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -56,7 +56,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    ### Data scientist and with Business Planning Experience
+    ### Data scientist with Business Planning Experience
     - <strong>7 years of data science and software development</strong>, including planning of new digital service.
     - Established and managed an application development team as a group leader, responsible for <strong>end-to-end project delivery</strong>.
     - Expert in <strong>data analysis, combinatorial optimization, machine learning, and mathematical modeling</strong> using Python and SQL.
