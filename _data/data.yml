@@ -58,10 +58,10 @@ career-profile:
   summary: |
     #### Group leader of Business Development with Digital technologies
     - <strong>7 years of data science and software development</strong>, including planning of new digital service.
-    - Headed the establishment of the company's application development business as a new team manager.
-    - Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management.
-    - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Southeast Asia.
-    - Strong analytical and execution skills with leadership; **excellent balance between business and technology** with high flexibility.
+    - Established and managed an application development team as a group leader, responsible for <strong>end-to-end project delivery</strong>.
+    - Expert in <strong>data analysis, combinatorial optimization, machine learning, and mathematical modeling</strong> using Python and SQL.
+    - Strong analytical and execution skills with leadership; strong understanding of business strategies and processes, gained through new business planning and driving company-wide initiatives.
+    - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Thailand and Vietnam.
 education:
   title: Education
   info:
@@ -119,7 +119,7 @@ additional-experiences:
       details: |
         <strong>Provided learning support and career assistance to 15+ students through online sessions.</strong>
         Participated as the first mentor and planned the standards of the service.
-        Supporting scientific training, SQL, reporting, and Python/Machine learning basics.
+        Supporting scientific thinking, SQL, reporting, and Python/Machine learning basics.
 projects:
   title: Community Involvement
   intro:
