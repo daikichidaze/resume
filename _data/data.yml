@@ -183,7 +183,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Data Analysis; Python, SQL, Excel, Google Analytics
+    - name: Data Analysis; Python, SQL, Excel, PowerBI, Google Analytics
       level: 90%
 
     - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
@@ -200,5 +200,8 @@ skills:
 
     - name: Agile project management
       level: 60%
+    
+    - name: Operations research / Mathematical optimization (Python/Pulp)
+      level: 50%
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
