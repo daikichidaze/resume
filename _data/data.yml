@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Takuma Yoshioka
-  tagline: Data scientist & <br>Business planning manager
+  tagline: Data scientist <br>with Business Planning Experience
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -56,12 +56,12 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    #### Group leader of Business Development with Digital technologies
-    - <strong>6 years of data science and software development</strong>, including planning of new digital service.
-    - Headed the establishment of the company's application development business as a new team manager.
-    - Experienced in both **mathematical optimization methods**, through linear programming formulation and heuristic algorithm development, including project management.
-    - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Southeast Asia.
-    - Strong analytical and execution skills with leadership; **excellent balance between business and technology** with high flexibility.
+    ### Data scientist with Business Planning Experience
+    - <strong>7 years of data science and software development</strong>, including planning of new digital service.
+    - Established and managed an application development team as a group leader, responsible for <strong>end-to-end project delivery</strong>.
+    - Expert in <strong>data analysis, combinatorial optimization, machine learning, and mathematical modeling</strong> using Python and SQL.
+    - Strong analytical and execution skills with leadership; strong understanding of business strategies and processes, gained through new business planning and driving company-wide initiatives.
+    - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Thailand and Vietnam.
 education:
   title: Education
   info:
@@ -82,7 +82,7 @@ education:
 experiences:
   title: Professional Experience
   info:
-    - role: Manager (Group leader)  / New business planner / Tech lead
+    - role: Group leader of New Business Development in Digital solutions
       time: 2019 - Present
       company: TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok Thailand
       details: |
@@ -92,7 +92,7 @@ experiences:
         Initiated leading teams in identifying and resolving project and organizational issues.
         Reporting to President and Division manager as a Group leader. 
         1.  <strong>Developed digitalization support business.</strong>
-        Created a digitization support business applying No-code tools with a few software engineers, discovered IT consultation service by communicating directly with end-users from a neutral standpoint.
+        Created a digitization support business applying No-code tools (bubble.io, PowerApps) with a few software engineers, discovered IT consultation service by communicating directly with end-users from a neutral standpoint.
         Completed more than five projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
         1. Involved in projects that drive change in the automotive industry, notably CASE. Examining and promoting both business and technical issues.
     - role: Mathematical optimization engineer / consultant
@@ -119,7 +119,7 @@ additional-experiences:
       details: |
         <strong>Provided learning support and career assistance to 15+ students through online sessions.</strong>
         Participated as the first mentor and planned the standards of the service.
-        Supporting scientific training, SQL, reporting, and Python/Machine learning basics.
+        Supporting scientific thinking, SQL, reporting, and Python/Machine learning basics.
 projects:
   title: Community Involvement
   intro:
@@ -177,28 +177,25 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Pandas/ Pulp/ Sklearn
+    - name: Data Analysis; Python, SQL, Excel, PowerBI, Google Analytics
       level: 90%
 
-    - name: C#
-      level: 60%
+    - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
+      level: 90%
 
-    - name: Go
-      level: 30%
-
-    - name: Data science & SQL
-      level: 75%
-
-    - name: Operations research &  Mathematical optimization
-      level: 75%
-
-    - name: NoCode & Prototype development
+    - name: Adaptability; Quick learner, flexible mindset, open to new challenges
       level: 80%
 
-    - name: Business planning & development
+    - name: Collaboration; Cross-functional team leading, multicultural communication, team building
+      level: 75%
+
+    - name: Software development (Python, C#, Go, NoCode)
       level: 70%
 
-    - name: Leadership and team establishment
+    - name: Agile project management
       level: 60%
+
+    - name: Operations research / Mathematical optimization (Python/Pulp)
+      level: 50%
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
