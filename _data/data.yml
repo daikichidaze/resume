@@ -177,7 +177,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Data Analysis; Python, SQL, Excel, PowerBI, Google Analytics
+    - name: Data Analysis; pandas / scikit-learn, SQL, Excel, PowerBI
       level: 90%
 
     - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
@@ -189,7 +189,7 @@ skills:
     - name: Collaboration; Cross-functional team leading, multicultural communication, team building
       level: 75%
 
-    - name: Software development (Python, C#, Go, NoCode)
+    - name: Software development; Python, C#, Go, NoCode
       level: 70%
 
     - name: Agile project management
