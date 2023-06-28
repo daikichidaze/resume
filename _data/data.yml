@@ -90,7 +90,7 @@ experiences:
         Proposed for lack of new planning function and designed a new business development framework.
         Started next year as a **new established team**, expanding to 6 members in 2 years (local members in Thailand).
         Initiated leading teams in identifying and resolving project and organizational issues.
-        Reporting to President and Division manager as a Group leader. 
+        Reporting to President and Division manager as a Group leader.
         1.  <strong>Developed digitalization support business.</strong>
         Created a digitization support business applying No-code tools (bubble.io, PowerApps) with a few software engineers, discovered IT consultation service by communicating directly with end-users from a neutral standpoint.
         Completed more than five projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
@@ -180,6 +180,15 @@ skills:
     - name: Data Analysis; pandas / scikit-learn, SQL, Excel, PowerBI
       level: 90%
 
+    - name: Operations research / Mathematical optimization (Python/Pulp)
+      level: 60%
+
+    - name: Software development; Python, C#, Go, NoCode
+      level: 60%
+
+    - name: Cloud computing; AWS, GCP, Azure
+      level: 45%
+
     - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
       level: 90%
 
@@ -189,13 +198,11 @@ skills:
     - name: Collaboration; Cross-functional team leading, multicultural communication, team building
       level: 75%
 
-    - name: Software development; Python, C#, Go, NoCode
-      level: 70%
 
     - name: Agile project management
       level: 60%
 
-    - name: Operations research / Mathematical optimization (Python/Pulp)
-      level: 50%
+
+
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
