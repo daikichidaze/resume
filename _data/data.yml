@@ -57,7 +57,7 @@ career-profile:
   title: Career Profile
   summary: |
     ### Data scientist with Business Planning Experience
-    - <strong>7 years of data science and software development</strong>, including planning of new digital service.
+    - <strong>8 years of data science and software development</strong>, including planning of new digital service.
     - Established and managed an application development team as a group leader, responsible for <strong>end-to-end project delivery</strong>.
     - Expert in <strong>data analysis, combinatorial optimization, machine learning, and mathematical modeling</strong> using Python and SQL.
     - Strong analytical and execution skills with leadership; strong understanding of business strategies and processes, gained through new business planning and driving company-wide initiatives.
@@ -192,19 +192,15 @@ skills:
       level: 45%
 
     - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
-      level: 90%
+      level: 99%
 
     - name: Adaptability; Quick learner, flexible mindset, open to new challenges
       level: 80%
 
     - name: Collaboration; Cross-functional team leading, multicultural communication, team building
-      level: 75%
-
+      level: 80%
 
     - name: Agile project management
       level: 60%
-
-
-
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
