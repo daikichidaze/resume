@@ -55,8 +55,8 @@ career-profile:
   title: Career Profile
   summary: |
     ### Data scientist with Business Planning Experience
-    - <strong>8 years of data science and software development</strong>, including planning of new digital service.
-    - Established and managed an application development team as a group leader, responsible for <strong>end-to-end project delivery</strong>.
+    - <strong>9 years of data science and software development</strong>, including planning of new digital service.
+    - Established and managed an new software development team as a leader, responsible for <strong>end-to-end project delivery</strong>.
     - Expert in <strong>data analysis, combinatorial optimization, machine learning, and mathematical modeling</strong> using Python and SQL.
     - Strong analytical and execution skills with leadership; strong understanding of business strategies and processes, gained through new business planning and driving company-wide initiatives.
     - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Thailand and Vietnam.
@@ -73,7 +73,7 @@ education:
 
     - degree: Misasa International Student Intern Program
       university: Institute for Planetary Materials, Okayama University
-      time: 2014
+      time: 2013
       details: |
         Mineralogical & chemical analysis of the Chelyabinsk meteorite in the international team
 
@@ -86,12 +86,12 @@ experiences:
       details: |
         1. <strong>Launched a New business planning process in the company.</strong>
         Proposed for lack of new planning function and designed a new business development framework.
-        Started next year as a **new established team**, expanding to 6 members in 2 years (local members in Thailand).
+        Started next year as a **new established team**, expanding to 4 members in 3 years (local members in Thailand).
         Initiated leading teams in identifying and resolving project and organizational issues.
         Reporting to President and Division manager as a Group leader.
-        1.  <strong>Developed digitalization support business.</strong>
-        Created a digitization support business applying No-code tools (bubble.io, PowerApps) with a few software engineers, discovered IT consultation service by communicating directly with end-users from a neutral standpoint.
-        Completed more than five projects totaling over 5M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
+        1.  <strong>Developed a new business of Digitalization support</strong>
+        Created a digitization support business applying No-code tools (bubble.io) with a few software engineers, discovered IT consultation service by communicating directly with end-users.
+        Completed more than ten projects totaling over 10M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
         1. Involved in projects that drive change in the automotive industry, notably CASE. Examining and promoting both business and technical issues.
     - role: Mathematical optimization engineer / consultant
       time: 2016 - 2019
@@ -198,7 +198,7 @@ skills:
     - name: Collaboration; Cross-functional team leading, multicultural communication, team building
       level: 80%
 
-    - name: Agile project management
+    - name: Agile project lead
       level: 60%
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
