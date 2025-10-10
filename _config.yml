@@ -10,8 +10,8 @@ baseurl: "/resume"
 
 description: Japanese Data scientist & Business planning manager
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
-# chrome_mobile_color: 1976d2 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+theme_skin: blue # blue turquoise green berry orange ceramic teal oceanstale
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
 analytics: G-RH7M5JPMC7
