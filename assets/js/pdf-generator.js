@@ -1,5 +1,6 @@
 function print() {
-  const printWindow = window.open("/print", "_blank");
+  const baseUrl = document.body.dataset.baseurl || "";
+  const printWindow = window.open(`${baseUrl}/print`, "_blank");
   printWindow.onload = function () {
     printWindow.print();
     // Close the print window after a delay

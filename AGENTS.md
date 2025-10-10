@@ -24,3 +24,7 @@ Set the preferred hostname in `CNAME` when deploying to a custom domain. Adjust 
 
 ## Repository Origin
 This repository was forked from the original Orbit theme project and customized to include the maintainer's personal résumé content.
+
+## Licensing Notes
+- The Orbit template is released under the Creative Commons Attribution 3.0 License.
+- Keep the footer attribution text (configured via `_data/data.yml` → `footer`) visible unless you have acquired the commercial license from 3rd Wave Media.

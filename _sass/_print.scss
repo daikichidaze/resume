@@ -8,6 +8,8 @@
     padding: 0;
   }
   .wrapper {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
     max-width: 100%;
   }
 
@@ -23,9 +25,16 @@
   }
   .sidebar-wrapper {
     position: static;
+    grid-column: span 3;
+    order: $sidebar-order;
     //  float: right;
     //  width: 40%;
     -webkit-print-color-adjust: exact;
+  }
+
+  .main-wrapper {
+    grid-column: span 7;
+    order: $resume-order;
   }
 
   .remove-container.container-block {
