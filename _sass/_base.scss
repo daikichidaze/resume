@@ -1,4 +1,5 @@
 /* ======= Base ======= */
+$section-heading-font: 'Poppins', 'Roboto', sans-serif;
 body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
@@ -107,29 +108,40 @@ p {
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 15px;
+    font-family: $section-heading-font;
   }
   .degree {
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 0;
     margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
   }
   .education-container {
-    .item {
-      margin-bottom: 15px;
+    .education-list {
+      margin: 0;
+      padding: 0;
+    }
+    .education-list-item {
+      margin-bottom: 10px;
       &:last-child {
         margin-bottom: 0;
       }
     }
-    .meta {
-      color: rgba(256, 256, 256, 0.6);
-      font-weight: 500;
-      margin-bottom: 0px;
-      margin-top: 0;
+    .education-list-title {
+      font-size: 14px;
+      font-weight: 400;
+      margin: 0 0 4px;
+      font-family: 'Roboto', sans-serif;
     }
-    .time {
+    .education-list-meta,
+    .education-list-time {
       color: rgba(256, 256, 256, 0.6);
-      font-weight: 500;
-      margin-bottom: 0px;
+      font-weight: 400;
+      margin: 0;
+    }
+    .education-list-time {
+      font-size: 13px;
     }
   }
   .languages-container {
@@ -167,14 +179,30 @@ p {
   .section-title {
     text-transform: uppercase;
     font-size: 24px;
-    font-weight: 500;
+    font-family: $section-heading-font;
+    font-weight: 700;
+    letter-spacing: 0.03em;
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-left: -12px;
+    .fa-stack {
+      flex: 0 0 auto;
+      transform: translateX(-4px);
+    }
   }
   .section {
     margin-bottom: 60px;
+  }
+
+  .summary-section {
+    h3 {
+      font-size: 16px;
+    }
   }
 
   .experiences-section,
@@ -216,7 +244,7 @@ p {
   .university,
   .cert-org {
     margin-bottom: 10px;
-    color: $text-grey;
+    color: mix($text-color-secondary, $text-grey, 50%);
   }
 
   .project-title {
@@ -272,12 +300,17 @@ p {
   }
   .level-title {
     font-size: 18px;
+    font-weight: 400;
     margin-top: 0;
     margin-bottom: 12px;
+    display: block;
+    width: 100%;
   }
   .level-bar {
     height: 12px;
     background: $smoky-white;
+    display: block;
+    width: 100%;
   }
   .level-bar-inner {
     height: 12px;
