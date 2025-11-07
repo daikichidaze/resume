@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: dkch.yoshioka.t@gmail.com
-  website: daikichidaze.github.io/resume #do not add http://
+  # website: daikichidaze.github.io/resume #do not add http://
   linkedin: takuma-yoshioka
 
   github: daikichidaze
@@ -53,33 +53,17 @@ sidebar:
         link:
 
 career-profile:
-  title: Career Profile
+  title: Professional Summary
   summary: |
     ### Data scientist with Business Planning Experience
-    - <strong>9 years of data science and software development</strong>, including planning of new digital service.
+    - <strong>10 years of data science and software development</strong>, including planning of new digital service.
     - Established and managed an new software development team as a leader, responsible for <strong>end-to-end project delivery</strong>.
     - Expert in <strong>data analysis, combinatorial optimization, machine learning, and mathematical modeling</strong> using Python and SQL.
     - Strong analytical and execution skills with leadership; strong understanding of business strategies and processes, gained through new business planning and driving company-wide initiatives.
     - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Thailand and Vietnam.
-education:
-  title: Education
-  info:
-    - degree: M.S. in Chemistry
-      university: Tokyo Metropolitan University
-      time: 2014 - 2016
-      details: |
-        - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
-        - Research title: Formation process of the early solar system by chemical analysis of meteorites
-        Obtained "A" grades for all classes in the master course
-
-    - degree: Misasa International Student Intern Program
-      university: Institute for Planetary Materials, Okayama University
-      time: 2013
-      details: |
-        Mineralogical & chemical analysis of the Chelyabinsk meteorite in the international team
 
 experiences:
-  title: Professional Experience
+  title: Employment Experience
   info:
     - role: Group leader of New Business Development in Digital solutions
       time: 2019 - Present
@@ -102,10 +86,18 @@ experiences:
         1. <strong>Simulator development and data analysis for MaaS planning.</strong> Development of a discrete event simulator for preliminary verification of new mobility service planning (python/simpy). Analyzed and reported simulation results. As a project manager, managed progress, quality control, and client negotiation for each project phase, worth 40M JPY in 3 years.
         1. <strong>Automation of floor plan design in housing.</strong> Development of automated design algorithms using heuristic techniques (C#). Collaborated with a major Japanese construction company to explore new possibilities for applications of mathematical optimization technology. Horizontal deployment to other companies in the industry was also considered, resulting in a 2-year, 30M JPY project.
 additional-experiences:
-  title: Additional Experience
+  title: Independent / Freelance Experience
   info:
+    - role: ビジネス向け生成AI研修のコンテンツディレクター
+      time: 2024 Jun. - 2024 Oct.
+      company: Data Learning Inc., Tokyo Japan
+      details: |
+        <strong>Provided learning support and career assistance to 15+ students through online sessions.</strong>
+        Participated as the first mentor and planned the standards of the service.
+        Supporting scientific thinking, SQL, reporting, and Python/Machine learning basics.
+
     - role: Mentoring in Data Science Schools
-      time: 2021 - Present
+      time: 2021 - 2024
       company: Data Learning Inc., Tokyo Japan
       details: |
         <strong>Provided learning support and career assistance to 15+ students through online sessions.</strong>
@@ -160,6 +152,24 @@ projects:
 #     - title: Delta
 #       link: "#"
 #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+education:
+  title: Education
+  info:
+    - degree: M.S. in Chemistry
+      university: Tokyo Metropolitan University
+      time: 2014 - 2016
+      details: |
+        - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
+        - Research title: Formation process of the early solar system by chemical analysis of meteorites
+        Obtained "A" grades for all classes in the master course
+
+    - degree: Misasa International Student Intern Program
+      university: Institute for Planetary Materials, Okayama University
+      time: 2013
+      details: |
+        Mineralogical & chemical analysis of the Chelyabinsk meteorite in the international team
+
 
 publications:
   title: Certification
