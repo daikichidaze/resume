@@ -55,75 +55,73 @@ sidebar:
 career-profile:
   title: Professional Summary
   summary: |
-    ### Data scientist with Business Planning Experience
-    - <strong>10 years of data science and software development</strong>, including planning of new digital service.
-    - Established and managed an new software development team as a leader, responsible for <strong>end-to-end project delivery</strong>.
-    - Expert in <strong>data analysis, combinatorial optimization, machine learning, and mathematical modeling</strong> using Python and SQL.
-    - Strong analytical and execution skills with leadership; strong understanding of business strategies and processes, gained through new business planning and driving company-wide initiatives.
-    - <strong>Led and coordinated</strong> with multicultural teams in English; worked with engineers in Thailand and Vietnam.
+    Freelance Data Scientist and AI/Product Consultant based in Bangkok, working 50% freelance and 50% employed in a concurrent model.
+    - I build data-driven digital solutions and new businesses end to end—shaping strategy, translating requirements into tested software, and leading delivery with small cross-functional teams.
+    - My background spans data analytics, mathematical optimization, and machine learning, and includes launching a digital solutions team that grew to five members, delivering more than ten client projects and establishing consulting capabilities that moved the business forward.
+    - I also champion spec-driven development with AI agent to shorten idea-to-release cycles and raise quality, and have led demanding education and enablement efforts for enterprise teams.
+    - Bilingual in English and Japanese, I work comfortably across Thailand, Japan, and Vietnam with executive and engineering stakeholders.
 
 experiences:
   title: Employment Experience
   info:
-    - role: Group leader of New Business Development in Digital solutions
-      time: 2019 - Present
-      company: TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok Thailand
+    - role: Digital Solutions Strategy Consultant - Part time
+      time: 2024 - Present
+      company: ISS Resolution Ltd., Bangkok, Thailand
       details: |
-        1. <strong>Launched a New business planning process in the company.</strong>
-        Proposed for lack of new planning function and designed a new business development framework.
-        Started next year as a **new established team**, expanding to 4 members in 3 years (local members in Thailand).
-        Initiated leading teams in identifying and resolving project and organizational issues.
-        Reporting to President and Division manager as a Group leader.
-        1.  <strong>Developed a new business of Digitalization support</strong>
-        Created a digitization support business applying No-code tools (bubble.io) with a few software engineers, discovered IT consultation service by communicating directly with end-users.
-        Completed more than ten projects totaling over 10M THB. The business was highly regarded as a cornerstone of the application business throughout the company.
-        1. Involved in projects that drive change in the automotive industry, notably CASE. Examining and promoting both business and technical issues.
-    - role: Mathematical optimization engineer / consultant
-      time: 2016 - 2019
-      company: KOZO KEIKAKU ENGINEERING Inc., Tokyo Japan
-      details: |
-        Worked as Project manager / Data Scientist / System Engineer / Educator
-        1. <strong>Simulator development and data analysis for MaaS planning.</strong> Development of a discrete event simulator for preliminary verification of new mobility service planning (python/simpy). Analyzed and reported simulation results. As a project manager, managed progress, quality control, and client negotiation for each project phase, worth 40M JPY in 3 years.
-        1. <strong>Automation of floor plan design in housing.</strong> Development of automated design algorithms using heuristic techniques (C#). Collaborated with a major Japanese construction company to explore new possibilities for applications of mathematical optimization technology. Horizontal deployment to other companies in the industry was also considered, resulting in a 2-year, 30M JPY project.
+        - Engaged under a services contract with TOYOTA TSUSHO SYSTEMS to continue responsibilities with the same team during a corporate transition.
+        - Initiated company wide investment and planning for new digital solutions through business data analytics, opportunity sizing, and prioritization.
+        - Led the pivot toward an IT consulting services model, defining offerings, pricing, and go-to-market.
 
+    - role: Head of Digital Solutions & New Business
+      time: 2019 - 2024
+      company: TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok, Thailand
+      details: |
+        - Established the company’s new business planning framework and launched a new team, scaling to five members within three years; reported to the President and Division Manager.
+        - Built a no-code–driven digitization practice (bubble.io) and IT consulting capability, delivering 10+ projects totaling 20M+ THB and becoming a cornerstone of the application development business.
+        - Led cross functional issue resolution and initiatives tied to automotive CASE transformation across business and technical domains.
+
+    - role: Mathematical Optimization Engineer / Consultant
+      time: 2016 - 2019
+      company: KOZO KEIKAKU ENGINEERING Inc., Tokyo, Japan
+      details: |
+        Served as Project Manager and Data Scientist.
+        - Built a discrete-event simulator for MaaS planning (Python/simpy); led analysis, QA, and client communication; managed a 40M JPY program over three years.
+        - Developed heuristic floor plan automation algorithms (C#) with a major construction firm; explored cross industry rollout; delivered a 30M JPY, two year project.
 
 additional-experiences:
   title: Independent / Freelance Experience
   info:
-
-
-    - role: AI Consultant, Enterprise Spec-Driven Development (with AI)
-      time: 2025 Sep. - Present
-      company: AI Training Inc., Tokyo Japan
+    - role: AI Consultant, Enterprise Spec-Driven Development
+      time: 2025 - Present
+      company: AI Training Inc., Tokyo, Japan
       details: |
-        - Consulting on the adoption of Spec-Driven Development (SDD) with AI—using tools such as Claude Code and the Gemini CLI—and directing the end-to-end training curriculum for enterprise teams.
-        - Leading the development and validation of SDD methods in the new paradigm (requirements → tests → code pipelines, agentic workflows), and codifying reusable playbooks and QA gates.
-        - Serving as Product Manager to stand up validation products/PoCs: defining scope and roadmaps, coordinating cross-functional delivery, and establishing metrics to assess cycle time and defect-rate impact.
+        - Consulting on the adoption of Spec-Driven Development (SDD) with Claude Code and the Gemini CLI; directing the end-to-end training curriculum for enterprise teams.
+        - Leading the development and validation of SDD methods in a new paradigm (vibe prototyping → specification extraction with feedback → SDD), and codifying reusable playbooks.
+        - Serving as Product Manager to stand up validation products: defining scope and roadmaps, and coordinating cross functional delivery.
 
     - role: Content Director, Enterprise Generative AI Training
-      time: 2024 Jun. - 2024 Oct.
-      company: Data Learning Inc., Nagoya Japan
+      time: 2024
+      company: Data Learning Inc., Nagoya, Japan
       details: |
-        - Content director for the Enterprise Generative AI Training focused on enabling business adoption.
-        - Led end-to-end content development leveraging AI across the team to deliver ~1,000 slides and 36 hours of video within three months.
-
+        - Content director for Enterprise Generative AI training focused on enabling business adoption.
+        - Led end-to-end content development, leveraging AI across the team to deliver ~1,000 slides and 36 hours of video within three months.
 
     - role: Data Science Mentor
       time: 2021 - 2024
-      company: Data Learning Inc., Nagoya Japan
+      company: Data Learning Inc., Nagoya, Japan
       details: |
-        Provided learning support and career guidance to 15+ learners through online 1:1 and group sessions.
-        Established the mentoring playbook and service standards as the program’s first mentor.
-        Coached scientific thinking, SQL, analytical reporting, and Python/Machine Learning fundamentals; reviewed projects and sudggest students for their projects.
+        - Provided learning support and career guidance to 15+ learners through online 1:1 and group sessions.
+        - Established the mentoring playbook and service standards as the program’s first mentor.
+        - Coached scientific thinking, SQL, analytical reporting, and Python/Machine Learning fundamentals; reviewed projects and provided targeted, actionable feedback.
 
-    - role: Project manager of AI function development
+    - role: Project Manager, AI Feature Development
       time: 2021 - 2023
-      company: Flare (Thailand) Co., Ltd., Bangkok Thailand
+      company: Flare (Thailand) Co., Ltd., Bangkok, Thailand
       details: |
-        <strong>Algorithm development for driving behavior event detection using smartphone GPS/sensor data.</strong>
-        Led the technical direction and project management.
-        Working on new algorithm development, data analysis, and technical proposal to CTO.
-        Collaborated with Vietnamese engineers on a fully remote and part-time basis.
+        - Led development of algorithms for driving-behavior event detection using smartphone GPS and inertial sensor data.
+        - Owned technical direction and project management across roadmap, sprint planning, and delivery.
+        - Designed and validated new algorithms, conducted data analysis, and produced technical proposals for the CTO.
+        - Coordinated a fully remote, part time cross border team with Vietnamese engineers; established async workflows and code review practices.
 
 projects:
   title: Community Involvement
@@ -137,15 +135,15 @@ projects:
         - Network analysis of slack conversation data
         - Knowledge graph development using SemanticMediaWiki
         - Crowdfunding project planned to launch a service to solve their challenges in learning data science
-    # - title: Wagumi DAO
-    #   time: 2022
-    #   link:
-    #   tagline: "Contributed to a Decentralized autonomous organization promoting web 3.0 projects from Japan. Revitalized and engaged in the management of the Discord community."
-    - title: TMU-SFC
-      time: 2010 - 2016
+    - title: Wagumi DAO
+      time: 2022
       link:
-      tagline: |
-        Designing and operating science experiment classes for children. Represented in 2021. Experienced in leadership and long-term organizational management ideas.
+      tagline: "Contributed to a Decentralized autonomous organization promoting web3.0 projects from Japan. Revitalized and engaged in the management of the Discord community."
+    # - title: TMU-SFC
+    #   time: 2010 - 2016
+    #   link:
+    #   tagline: |
+    #     Designing and operating science experiment classes for children. Represented in 2021. Experienced in leadership and long-term organizational management ideas.
 # oss:
 #   title: OSS Contributions
 #   intro: >
