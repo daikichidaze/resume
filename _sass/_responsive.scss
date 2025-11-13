@@ -26,6 +26,16 @@
   .main-wrapper .upper-row {
     margin-bottom: 0;
   }
+
+  .skillset .skills-table th,
+  .skillset .skills-table td {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+
+  .skillset .skills-table__name {
+    white-space: normal;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
@@ -33,24 +43,6 @@
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-  .skillset .level-title {
-    float: none;
-    width: 100%;
-    margin-bottom: 0;
-  }
-
-  .skillset .level-bar {
-    float: none;
-    width: 100%;
-  }
-}
-
-.skillset .level-bar-inner {
-  width: auto;
-  -webkit-transition: width 2s ease-in-out;
-  -moz-transition: width 2s ease-in-out;
-  -o-transition: width 2s ease-in-out;
-  transition: width 2s ease-in-out;
 }
 
 /* Large devices (large desktops, 1200px and up) */

@@ -294,27 +294,66 @@ p {
 }
 
 .skillset {
-  .item {
-    margin-bottom: 15px;
-    overflow: hidden;
+  .skills-table-wrapper {
+    overflow-x: auto;
+    border: 1px solid mix($theme-color, #fff, 40%);
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
   }
-  .level-title {
-    font-size: 18px;
-    font-weight: 400;
-    margin-top: 0;
-    margin-bottom: 12px;
-    display: block;
+
+  .skills-table {
     width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+    min-width: 280px;
+
+    th,
+    td {
+      text-align: left;
+      padding: 10px 12px;
+      border-bottom: 1px solid mix($theme-color, #fff, 70%);
+    }
+
+    thead th {
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: $theme-color;
+      background: lighten($theme-color, 45%);
+    }
+
+    tbody tr:last-child td,
+    tbody tr:last-child th {
+      border-bottom: 0;
+    }
+
+    tbody tr:nth-child(even) {
+      background: lighten($smoky-white, 2%);
+    }
+
+    tbody tr:hover {
+      background: lighten($theme-color, 52%);
+      transition: background 0.2s ease;
+    }
   }
-  .level-bar {
-    height: 12px;
-    background: $smoky-white;
-    display: block;
-    width: 100%;
+
+  .skills-table__name {
+    width: 35%;
+    font-weight: 550;
+    font-size: 14px;
+    white-space: nowrap;
   }
-  .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
+
+  .skills-table__detail {
+    font-size: 14px;
+    color: $text-color-secondary;
+  }
+
+  .skills-table__placeholder {
+    font-style: italic;
+    color: mix($text-color-secondary, #fff, 60%);
   }
 }
 

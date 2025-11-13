@@ -31,9 +31,21 @@
        display: none;
     }
 
-    .skillset .level-bar-inner {
-    //    background-color: #1976d2 !important;
-       print-color-adjust: exact; 
+    .skillset .skills-table-wrapper {
+        border-color: rgba(0,0,0,0.35);
+        box-shadow: none;
+        background-color: #ffffff;
+    }
+
+    .skillset .skills-table th {
+        background-color: #ffffff !important;
+        color: #000000 !important;
+        print-color-adjust: exact; 
+    }
+
+    .skillset .skills-table th,
+    .skillset .skills-table td {
+        border-color: rgba(0,0,0,0.2);
     }
 
    .fa-inverse,

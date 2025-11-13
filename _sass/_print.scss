@@ -50,8 +50,19 @@
     break-inside: avoid;
   }
 
-  .skillset .level-bar-inner {
-    background-color: $theme-color !important;
+  .skillset .skills-table-wrapper {
+    border-color: lighten($text-color-secondary, 45%);
+    box-shadow: none;
+  }
+
+  .skillset .skills-table th {
+    background-color: lighten($theme-color, 40%) !important;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .skillset .skills-table th,
+  .skillset .skills-table td {
+    border-color: lighten($text-color-secondary, 50%);
     -webkit-print-color-adjust: exact;
   }
 

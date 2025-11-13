@@ -198,28 +198,30 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Data Analysis; pandas / scikit-learn, SQL, Excel, PowerBI
-      level: 90%
+    - name: Data Analysis
+      detail: pandas, scikit-learn, SQL, Excel, PowerBI
 
-    - name: Operations research / Mathematical optimization (Python/Pulp)
-      level: 60%
+    - name: Operations research / Mathematical optimization
+      detail: Python / PuLP
 
-    - name: Software development; Python, C#, Go, NoCode
-      level: 60%
+    - name: Software development
+      detail: Python, C#, Go, NoCode
 
-    - name: Cloud computing; AWS, GCP, Azure
-      level: 45%
+    - name: Cloud computing
+      detail: AWS, GCP, Azure
 
-    - name: Problem Solving; Root cause analysis, critical thinking, issue identification and resolution
-      level: 99%
+    - name: Problem Solving
+      detail: Root cause analysis, critical thinking, issue identification and resolution
 
-    - name: Adaptability; Quick learner, flexible mindset, open to new challenges
-      level: 80%
+    - name: Adaptability
+      detail: Quick learner, flexible mindset, open to new challenges
 
-    - name: Collaboration; Cross-functional team leading, multicultural communication, team building
-      level: 80%
+    - name: Collaboration
+      detail: Cross-functional team leading, multicultural communication, team building
 
     - name: Agile project lead
-      level: 60%
+      detail:
+
+
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
