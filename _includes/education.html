@@ -2,58 +2,62 @@
 
 {% if education %}
   {% if in_sidebar %}
-  <div class="education-container container-block">
+    {% assign sidebar_items = education.info | where_exp: "item", "item.show_in_sidebar != false" %}
+    {% if sidebar_items.size > 0 %}
+    <div class="education-container container-block">
 
-    <h2 class="container-block-title">
-      {{ education.title }}
-    </h2>
+      <h2 class="container-block-title">
+        {{ education.title }}
+      </h2>
 
-    <ul class="list-unstyled education-list">
-      {% for graduation in education.info %}
-      <li class="education-list-item">
-        <div class="education-list-title">{{ graduation.degree }}</div>
-        <div class="education-list-meta">{{ graduation.university }}</div>
-        <div class="education-list-time">{{ graduation.time }}</div>
-      </li>
-      {% endfor %}
-    </ul>
+      <ul class="list-unstyled education-list">
+        {% for graduation in sidebar_items %}
+        <li class="education-list-item">
+          <div class="education-list-title">{{ graduation.degree }}</div>
+          <div class="education-list-meta">{{ graduation.university }}</div>
+          <div class="education-list-time">{{ graduation.time }}</div>
+        </li>
+        {% endfor %}
+      </ul>
 
-  </div><!--//education-container-->
+    </div><!--//education-container-->
+    {% endif %}
   {% else %}
- 
+    {% assign main_items = education.info | where_exp: "item", "item.show_in_main != false" %}
+    {% if main_items.size > 0 %}
+    <section class="section educations-section">
 
-  <section class="section educations-section">
+      <h2 class="section-title">
+        <span class="fa-stack fa-xs">
+          <i class="fas fa-circle fa-stack-2x"></i>
+          <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+        </span>
+        {{ education.title }}
+      </h2>
 
-    <h2 class="section-title">
-      <span class="fa-stack fa-xs">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
-      </span>
-      {{ education.title }}
-    </h2>
+      {% for graduation in main_items %}
+      <div class="item">
 
-    {% for graduation in education.info %}
-    <div class="item">
+        <div class="meta">
 
-      <div class="meta">
+          <div class="upper-row">
+            <h3 class="degree">{{ graduation.degree }}</h3>
+            <div class="time">{{ graduation.time }}</div>
+          </div><!--//upper-row-->
 
-        <div class="upper-row">
-          <h3 class="degree">{{ graduation.degree }}</h3>
-          <div class="time">{{ graduation.time }}</div>
-        </div><!--//upper-row-->
+          <div class="university">{{ graduation.university }}</div>
+        </div><!--//meta-->
 
-        <div class="university">{{ graduation.university }}</div>
-      </div><!--//meta-->
+        {% if graduation.details %}
+        <div class="details">
+          {{ graduation.details | markdownify }}
+        </div><!--//details-->
+        {% endif %}
 
-      {% if graduation.details %}
-      <div class="details">
-        {{ graduation.details | markdownify }}
-      </div><!--//details-->
-      {% endif %}
+      </div><!--//item-->
+      {% endfor %}
 
-    </div><!--//item-->
-    {% endfor %}
-
-  </section><!--//section-->
+    </section><!--//section-->
+    {% endif %}
   {% endif %}
 {% endif %}

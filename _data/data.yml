@@ -170,15 +170,27 @@ education:
       university: Tokyo Metropolitan University
       time: 2014 - 2016
       details: |
-        - Major: Cosmo chemistry / Geochemistry / Inorganic analytical chemistry
-        - Research title: Formation process of the early solar system by chemical analysis of meteorites
-        Obtained "A" grades for all classes in the master course
+        Major: Cosmochemistry, Geochemistry, Inorganic analytical chemistry
+# 
+# Thesis: <i>Formation process of the early solar system by chemical analysis of meteorites</i>
+      show_in_sidebar: true
+      show_in_main: true
 
     - degree: Misasa International Student Intern Program
       university: Institute for Planetary Materials, Okayama University
       time: 2013
       details: |
         Mineralogical & chemical analysis of the Chelyabinsk meteorite in the international team
+      show_in_sidebar: true
+      show_in_main: false
+
+
+    - degree: B.S. in Chemistry
+      university: Tokyo Metropolitan University
+      time: 2010 - 2014
+      details:
+      show_in_sidebar: true
+      show_in_main: false
 
 
 publications:
@@ -201,27 +213,17 @@ skills:
     - name: Data Analysis
       detail: pandas, scikit-learn, SQL, Excel, PowerBI
 
-    - name: Operations research / Mathematical optimization
-      detail: Python / PuLP
+    - name: Operations research
+      detail: Mathematical optimization, Heuristic algorithms, Simulation, PuLP
+
+    - name: Generative AI &amp; AI agent
+      detail: Claude Code, Gemini CLI, Codex
 
     - name: Software development
-      detail: Python, C#, Go, NoCode
+      detail: Python, C#, Go, TypeScript
 
     - name: Cloud computing
       detail: AWS, GCP, Azure
-
-    - name: Problem Solving
-      detail: Root cause analysis, critical thinking, issue identification and resolution
-
-    - name: Adaptability
-      detail: Quick learner, flexible mindset, open to new challenges
-
-    - name: Collaboration
-      detail: Cross-functional team leading, multicultural communication, team building
-
-    - name: Agile project lead
-      detail:
-
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
