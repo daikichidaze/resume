@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Takuma Yoshioka
-  tagline: Data scientist <br>AI consultant
+  tagline: "Structuring business strategy into analytics and AI execution"
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -53,75 +53,87 @@ sidebar:
         link:
 
 career-profile:
-  title: Professional Summary
+  title: Freelance Data & AI Strategist
   summary: |
-    Freelance Data Scientist and AI/Product Consultant based in Bangkok, working 50% freelance and 50% employed in a concurrent model.
-    - I build data-driven digital solutions and new businesses end to end—shaping strategy, translating requirements into tested software, and leading delivery with small cross-functional teams.
-    - My background spans data analytics, mathematical optimization, and machine learning, and includes launching a digital solutions team that grew to five members, delivering more than ten client projects and establishing consulting capabilities that moved the business forward.
-    - I also champion spec-driven development with AI agent to shorten idea-to-release cycles and raise quality, and have led demanding education and enablement efforts for enterprise teams.
-    - Bilingual in English and Japanese, I work comfortably across Thailand, Japan, and Vietnam with executive and engineering stakeholders.
+    I help companies clarify what to solve, how to measure it, and how to execute it, especially when the problem is still hard to frame or not yet ready for implementation.
+
+    My approach is rooted in planetary science, where I worked from chemical analysis data to reconstruct how the early solar system behaved and evolved. That same way of thinking still shapes my work today. I use limited but observable data to reconstruct how complex systems behave, and then turn that understanding into concrete decisions.
+
+    In practice, I use analytics, optimization, simulation, and AI enablement to turn ambiguous business situations into actionable plans for digital initiatives.
+
+    Based in Bangkok (GMT+7), I work remotely in English and Japanese. If your team is investing in analytics or AI but still needs to clarify where to start, what to prioritize, or how to make execution realistic, feel free to reach out.
+
+    ### Recent work
+
+    - Built an AI project role-playing examination system through AI-driven development, turning a training concept into a working prototype and helping validate the approach early.
+    - Shaped product direction and drove beta release for a talent-matching platform for data and analytics professionals, taking the initiative from concept refinement to launch in five months.
+    - Designed and developed an Agent Skills training program for non-engineers, translating learning needs into a practical curriculum and training materials.
 
 experiences:
-  title: Employment Experience
+  title: Employment History
   info:
-    - role: Digital Solutions Strategy Consultant - Part time
-      time: 2024 - Present
-      company: ISS Resolution Ltd., Bangkok, Thailand
+    - role: Digital Solutions Strategy Consultant (Part-time)
+      time: 2024 - 2026
+      company: ISS Resolution Limited, Bangkok City, Thailand
       details: |
-        - Engaged under a services contract with TOYOTA TSUSHO SYSTEMS to continue responsibilities with the same team during a corporate transition.
-        - Initiated company wide investment and planning for new digital solutions through business data analytics, opportunity sizing, and prioritization.
-        - Led the pivot toward an IT consulting services model, defining offerings, pricing, and go-to-market.
+        - Continued supporting the same business domain and team context through a services contract during a corporate transition.
+        - Supported investment planning and new digital solution and service planning through analytics, opportunity sizing, and prioritization.
+        - Helped shape the shift toward an IT consulting services model, including offering design, pricing logic, and go-to-market planning.
 
     - role: Head of Digital Solutions & New Business
       time: 2019 - 2024
-      company: TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok, Thailand
+      company: TOYOTA TSUSHO SYSTEMS (THAILAND) Co., Ltd., Bangkok City, Thailand
       details: |
-        - Established the company’s new business planning framework and launched a new team, scaling to five members within three years; reported to the President and Division Manager.
-        - Built a no-code–driven digitization practice (bubble.io) and IT consulting capability, delivering 10+ projects totaling 20M+ THB and becoming a cornerstone of the application development business.
-        - Led cross functional issue resolution and initiatives tied to automotive CASE transformation across business and technical domains.
+        - Proposed and helped establish the company’s new business planning function in response to the lack of a dedicated business development capability.
+        - Designed the initial framework for opportunity development, planning workflows, and decision-making processes.
+        - Built and scaled the digital solutions and new business function from 1 to 5 members in Thailand.
+        - Developed no-code-driven digitization support and IT consulting capabilities, contributing to 10+ projects totaling 20M+ THB.
+        - Standardized service menus, planning workflows, and delivery practices that supported an average of 15 projects per year.
+        - Worked across business planning, requirement definition, project delivery, and service development.
 
-    - role: Mathematical Optimization Engineer / Consultant
+    - role: Mathematical Optimization Engineer
       time: 2016 - 2019
-      company: KOZO KEIKAKU ENGINEERING Inc., Tokyo, Japan
+      company: Kozo Keikaku Engineering, Inc., Tokyo, Japan
       details: |
-        Served as Project Manager and Data Scientist.
-        - Built a discrete-event simulator for MaaS planning (Python/simpy); led analysis, QA, and client communication; managed a 40M JPY program over three years.
-        - Developed heuristic floor plan automation algorithms (C#) with a major construction firm; explored cross industry rollout; delivered a 30M JPY, two year project.
+        - Worked across project management, data analysis, simulation, and optimization in enterprise projects.
+        - Built a discrete-event simulator for MaaS planning using Python/simpy, leading analysis, QA, and client communication in a 40M JPY, three-year program.
+        - Developed heuristic floor plan automation algorithms in C# with a major construction company, contributing to a two-year, 30M JPY project.
 
 additional-experiences:
-  title: Independent / Freelance Experience
+  title: Experience
   info:
     - role: AI Consultant, Enterprise Spec-Driven Development
       time: 2025 - Present
-      company: AI Training Inc., Tokyo, Japan
+      company: AI Training Inc., Tokyo, Japan (Remote)
       details: |
-        - Consulting on the adoption of Spec-Driven Development (SDD) with Claude Code and the Gemini CLI; directing the end-to-end training curriculum for enterprise teams.
-        - Leading the development and validation of SDD methods in a new paradigm (vibe prototyping → specification extraction with feedback → SDD), and codifying reusable playbooks.
-        - Serving as Product Manager to stand up validation products: defining scope and roadmaps, and coordinating cross functional delivery.
+        - Consulted on the adoption of spec-driven development (SDD) with AI coding agents for enterprise teams.
+        - Led training design, delivery planning, and practical enablement around SDD workflows and AI-assisted development.
+        - Helped shape reusable playbooks and validation approaches for enterprise adoption.
 
     - role: Content Director, Enterprise Generative AI Training
       time: 2024
-      company: Data Learning Inc., Nagoya, Japan
+      company: Data Learning Inc., Nagoya, Aichi, Japan (Remote)
       details: |
-        - Content director for Enterprise Generative AI training focused on enabling business adoption.
-        - Led end-to-end content development, leveraging AI across the team to deliver ~1,000 slides and 36 hours of video within three months.
+        - Led end-to-end content development for enterprise generative AI training focused on business adoption.
+        - Directed content design and production across the team, delivering approximately 1,000 slides and 36 hours of video within three months.
+        - Used AI-assisted workflows to accelerate development while maintaining consistency and instructional quality.
 
     - role: Data Science Mentor
       time: 2021 - 2024
-      company: Data Learning Inc., Nagoya, Japan
+      company: Data Learning Inc., Nagoya, Aichi, Japan (Remote)
       details: |
-        - Provided learning support and career guidance to 15+ learners through online 1:1 and group sessions.
+        - Provided 1:1 learning support and career guidance to 20+ learners in data science and analytics.
         - Established the mentoring playbook and service standards as the program’s first mentor.
-        - Coached scientific thinking, SQL, analytical reporting, and Python/Machine Learning fundamentals; reviewed projects and provided targeted, actionable feedback.
+        - Supported learners in SQL, Python, analytical reporting, and machine learning fundamentals through practical feedback and project review.
 
-    - role: Project Manager, AI Feature Development
+    - role: Technical Lead, AI Feature Development
       time: 2021 - 2023
-      company: Flare (Thailand) Co., Ltd., Bangkok, Thailand
+      company: Flare (Thailand) Co., Ltd., Bangkok City, Thailand
       details: |
-        - Led development of algorithms for driving-behavior event detection using smartphone GPS and inertial sensor data.
+        - Led the development of driving-behavior event detection algorithms using smartphone GPS and inertial sensor data.
         - Owned technical direction and project management across roadmap, sprint planning, and delivery.
-        - Designed and validated new algorithms, conducted data analysis, and produced technical proposals for the CTO.
-        - Coordinated a fully remote, part time cross border team with Vietnamese engineers; established async workflows and code review practices.
+        - Designed and validated new algorithms, conducted data analysis, and prepared technical proposals for the CTO.
+        - Coordinated a fully remote, part-time cross-border team with Vietnamese engineers and established async workflows and code review practices.
 
 projects:
   title: Community Involvement
@@ -131,14 +143,14 @@ projects:
       time: 2020 - Present
       link:
       tagline: |
-        Contributed to an online community of Japanese data scientists. Promoting multiple projects improved various skills.
+        Contributed to an online community of Japanese data scientists. Working on multiple projects helped me develop a broad range of skills.
         - Network analysis of slack conversation data
         - Knowledge graph development using SemanticMediaWiki
-        - Crowdfunding project planned to launch a service to solve their challenges in learning data science
+        - Crowdfunding project to launch a service addressing challenges in learning data science
     - title: Wagumi DAO
       time: 2022
       link:
-      tagline: "Contributed to a Decentralized autonomous organization promoting web3.0 projects from Japan. Revitalized and engaged in the management of the Discord community."
+      tagline: "Contributed to a decentralized autonomous organization promoting Web3.0 projects from Japan. Helped revitalize and manage the Discord community."
     # - title: TMU-SFC
     #   time: 2010 - 2016
     #   link:
@@ -170,7 +182,7 @@ education:
       university: Tokyo Metropolitan University
       time: 2014 - 2016
       details: |
-        Major: Cosmochemistry, Geochemistry, Inorganic analytical chemistry
+        Research on the Formation Process of the Early Solar System based on the Chemical Analysis of Meteorites
 # 
 # Thesis: <i>Formation process of the early solar system by chemical analysis of meteorites</i>
       show_in_sidebar: true
@@ -180,7 +192,7 @@ education:
       university: Institute for Planetary Materials, Okayama University
       time: 2013
       details: |
-        Mineralogical & chemical analysis of the Chelyabinsk meteorite in the international team
+        Conducted mineralogical and chemical analysis of the Chelyabinsk meteorite as part of an international team.
       show_in_sidebar: true
       show_in_main: false
 
@@ -194,7 +206,7 @@ education:
 
 
 publications:
-  title: Certification
+  title: Certifications
   intro:
   papers:
     - title: AWS Certified Developer - Associate (DVA-C01)
@@ -211,12 +223,12 @@ skills:
 
   toolset:
     - name: Data Analysis
-      detail: pandas, scikit-learn, SQL, Excel, PowerBI
+      detail: pandas, scikit-learn, SQL, Excel, Power BI
 
     - name: Operations research
       detail: Mathematical optimization, Heuristic algorithms, Simulation, PuLP
 
-    - name: Generative AI &amp; AI agent
+    - name: Generative AI &amp; AI agents
       detail: Claude Code, Gemini CLI, Codex
 
     - name: Software development

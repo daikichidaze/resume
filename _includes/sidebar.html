@@ -19,14 +19,15 @@
 
   {% include contact.html %}
 
+  {% include language.html %}
+  {% include sidebar-certifications.html %}
+
   {% if sidebar.education %}
     {% capture in_sidebar %}{{ sidebar.education }}{% endcapture %}
 
     {% include education.html %}
   {% endif %}
 
-  {% include language.html %}
-  {% include sidebar-certifications.html %}
   {% include interests.html %}
 
   {% if sidebar.about %}
