@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Takuma Yoshioka
-  tagline: "Structuring business strategy into analytics and AI execution"
+  tagline: "Structuring business strategy into execution through analytics and AI implementation"
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -57,7 +57,7 @@ career-profile:
   summary: |
     I help companies clarify what to solve, how to measure it, and how to execute it, especially when the problem is still hard to frame or not yet ready for implementation.
 
-    My approach is rooted in planetary science, where I worked from chemical analysis data to reconstruct how the early solar system behaved and evolved. That same way of thinking still shapes my work today. I use limited but observable data to reconstruct how complex systems behave, and then turn that understanding into concrete decisions.
+    My approach is rooted in planetary science, where I worked with chemical analysis data to reconstruct how the early solar system behaved and evolved. That same way of thinking still shapes my work today. I use limited but observable data to reconstruct how complex systems behave, and then turn that understanding into concrete decisions.
 
     In practice, I use analytics, optimization, simulation, and AI enablement to turn ambiguous business situations into actionable plans for digital initiatives.
 
@@ -65,7 +65,7 @@ career-profile:
 
     ### Recent work
 
-    - Built an AI project role-playing examination system through AI-driven development, turning a training concept into a working prototype and helping validate the approach early.
+    - Built a role-play-based examination system for AI projects through AI-driven development, turning a training concept into a working prototype and helping validate the approach early.
     - Shaped product direction and drove beta release for a talent-matching platform for data and analytics professionals, taking the initiative from concept refinement to launch in five months.
     - Designed and developed an Agent Skills training program for non-engineers, translating learning needs into a practical curriculum and training materials.
 
@@ -77,7 +77,7 @@ experiences:
       company: ISS Resolution Limited, Bangkok City, Thailand
       details: |
         - Continued supporting the same business domain and team context through a services contract during a corporate transition.
-        - Supported investment planning and new digital solution and service planning through analytics, opportunity sizing, and prioritization.
+        - Supported investment planning and planning for new digital solutions and services through analytics, opportunity sizing, and prioritization.
         - Helped shape the shift toward an IT consulting services model, including offering design, pricing logic, and go-to-market planning.
 
     - role: Head of Digital Solutions & New Business
@@ -146,7 +146,7 @@ projects:
         Contributed to an online community of Japanese data scientists. Working on multiple projects helped me develop a broad range of skills.
         - Network analysis of slack conversation data
         - Knowledge graph development using SemanticMediaWiki
-        - Crowdfunding project to launch a service addressing challenges in learning data science
+        - A crowdfunding project aimed at launching a service to address challenges in learning data science
     - title: Wagumi DAO
       time: 2022
       link:
